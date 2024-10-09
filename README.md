@@ -1,6 +1,6 @@
 # Auto-Clicking-Tool
 
-My free and user-friendly application designed to automate mouse clicks for convenience.
+My free and user-friendly application designed to automate mouse clicks for convenience using Python + Tkinter.
 
 **Key Features:**
 - **Easy to Use:** Simple interface for quick setup and operation.
